@@ -1,6 +1,5 @@
 package Exercicios;
 import java.util.Scanner;
-import java.util.function.Function;
 
 public class exe01 {
 
