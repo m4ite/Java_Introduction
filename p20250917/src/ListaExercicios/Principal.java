@@ -102,10 +102,60 @@ public class Principal {
 		
 		exe07 e7 = new exe07();
 		e7.imprimirSalario(ValorHora, QtdHoras); 
-		obj_in.close(); */
+		obj_in.close(); 
+		*/
 		
 		
 		
+		
+		/* -------------- Exercicio 08 --------------
+		Scanner obj_in = new Scanner(System.in);
+		System.out.println("Salario: ");
+		double salario = obj_in.nextDouble();
+		
+		exe08 e8 = new exe08();
+		e8.imprimirReajuste(salario);
+		obj_in.close();
+		*/
+		
+		
+		
+		
+		/* -------------- Exercicio 09 --------------
+		Scanner obj_in = new Scanner(System.in);
+		System.out.println("N1: ");
+		int n1 = obj_in.nextInt();
+		
+		System.out.println("N2: ");
+		int n2 = obj_in.nextInt();
+		
+		System.out.println("N3: ");
+		int n3 = obj_in.nextInt();
+		
+		
+		exe09 e9 = new exe09();
+		e9.MaiorMenor(n1,n2,n3);
+		obj_in.close();
+		*/
+		
+		
+		
+		/* -------------- Exercicio 10 --------------
+		Scanner obj_in = new Scanner(System.in);
+		System.out.println("N1: ");
+		int n1 = obj_in.nextInt();
+		
+		System.out.println("N2: ");
+		int n2 = obj_in.nextInt();
+		
+		System.out.println("N3: ");
+		int n3 = obj_in.nextInt();
+		
+		int[] numeros = {n1,n2,n3};
+		
+		exe10 e10 = new exe10();
+		e10.ordenar(numeros);
+		obj_in.close();*/
 		
 	}
 
