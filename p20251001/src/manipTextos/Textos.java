@@ -79,7 +79,7 @@ public class Textos {
 	
 	
 	public String Pernanbuco(String text) {
-		String palavraBase = "pernanbuco";
+		String palavraBase = "pernambuco";
 		String code = "3764109852";
 		
 		String result = "";
